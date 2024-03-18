@@ -1,0 +1,6 @@
+../Core/Src/ledSisTask.c:27:12:Sistema_Activo	1
+../Core/Src/ledSisTask.c:32:12:Sistema_No_Activo	1
+../Core/Src/ledSisTask.c:37:12:Tiempo_Ha_Pasado	2
+../Core/Src/ledSisTask.c:46:13:funcion_LED_azul_encendido	1
+../Core/Src/ledSisTask.c:52:13:funcion_LED_azul_apagado	1
+../Core/Src/ledSisTask.c:65:6:ledSisFunction	1

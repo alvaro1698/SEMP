@@ -1,0 +1,10 @@
+../Core/Src/movTask.c:42:12:Sistema_Activo	16	static
+../Core/Src/movTask.c:47:12:Sistema_No_Activo	16	static
+../Core/Src/movTask.c:52:12:esta_parado	24	static
+../Core/Src/movTask.c:66:12:esta_andando	24	static
+../Core/Src/movTask.c:78:12:esta_aviso	24	static
+../Core/Src/movTask.c:91:13:funcion_andando	24	static
+../Core/Src/movTask.c:97:13:funcion_aviso	24	static
+../Core/Src/movTask.c:103:13:funcion_parado	24	static
+../Core/Src/movTask.c:110:13:funcion_sistemaoff	24	static
+../Core/Src/movTask.c:131:6:movFunction	24	static

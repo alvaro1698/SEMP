@@ -1,0 +1,6 @@
+../Core/Src/ledSisTask.c:27:12:Sistema_Activo	16	static
+../Core/Src/ledSisTask.c:32:12:Sistema_No_Activo	16	static
+../Core/Src/ledSisTask.c:37:12:Tiempo_Ha_Pasado	16	static
+../Core/Src/ledSisTask.c:46:13:funcion_LED_azul_encendido	16	static
+../Core/Src/ledSisTask.c:52:13:funcion_LED_azul_apagado	16	static
+../Core/Src/ledSisTask.c:65:6:ledSisFunction	24	static

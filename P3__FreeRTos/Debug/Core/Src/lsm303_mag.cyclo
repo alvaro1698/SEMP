@@ -1,0 +1,2 @@
+../Core/Src/lsm303_mag.c:7:6:LSM303AGR_MagInit	1
+../Core/Src/lsm303_mag.c:18:6:LSM303AGR_MagReadXYZ	1

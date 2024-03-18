@@ -1,0 +1,9 @@
+../Core/Src/muesAceTask.c:47:12:Sistema_Activo	1
+../Core/Src/muesAceTask.c:52:12:Sistema_No_Activo	1
+../Core/Src/muesAceTask.c:57:13:funcion_muestreo	1
+../Core/Src/muesAceTask.c:65:13:funcion_terminar	1
+../Core/Src/muesAceTask.c:80:12:empieza_muestras	3
+../Core/Src/muesAceTask.c:92:13:funcion_comparar_calculo	4
+../Core/Src/muesAceTask.c:121:12:muestras_cumplidas	3
+../Core/Src/muesAceTask.c:133:13:funcion_calculo	1
+../Core/Src/muesAceTask.c:152:6:muesAceFunction	1
